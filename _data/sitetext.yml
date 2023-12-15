@@ -11,7 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header: 
-    text: hello 
+    text: hello
+    textcolor: "#000"
     
 
   services:
