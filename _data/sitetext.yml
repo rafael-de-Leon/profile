@@ -11,9 +11,9 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    color: black
+    textcolor: "#000"
     text: Hello World
-    subtext: Passion for innovation and technology
+      subtext: Passion for innovation and technology
 
   services:
     title: "Services"
