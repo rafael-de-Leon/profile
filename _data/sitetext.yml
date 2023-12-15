@@ -12,8 +12,7 @@
 en: &DEFAULT_EN
   header:
     title: guys
-    text: "hello"
-    section: "world"
+    desc: "hello"
     
     
 
