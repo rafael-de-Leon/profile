@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    textcolor: black
+    color: black
     text: Hello World
     subtext: Passion for innovation and technology
 
