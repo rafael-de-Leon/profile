@@ -10,8 +10,7 @@
 # English (default)
 # -----------------
 en: &DEFAULT_EN
-  header: black
-    textcolor: "#000"
+  header: 
     text: hello 
       subtext: Passion for innovation and technology
 
