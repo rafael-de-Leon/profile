@@ -14,7 +14,7 @@ en: &DEFAULT_EN
     theme:
       palette:
         accent: indigo
-    text: hello
+          text: hello
     
     
 
