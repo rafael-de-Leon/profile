@@ -11,9 +11,9 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: test
-    text: "hello"
-    desc: test
+    title: Aspiring Cloud Engineer
+    text: Rafael de Leon
+    the man
     
     
 
