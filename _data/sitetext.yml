@@ -11,10 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    theme:
-      palette:
-        accent: indigo
-          text: hello
+    text: hello
+      subtext: world
     
     
 
