@@ -10,9 +10,12 @@
 # English (default)
 # -----------------
 en: &DEFAULT_EN
-  header: 
+  header:
+    theme:
+      palette:
+        accent: indigo
     text: hello
-    textcolor: "#000"
+    
     
 
   services:
