@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   header: black
     textcolor: "#000"
-    text: Hello World
+    text: hello 
       subtext: Passion for innovation and technology
 
   services:
