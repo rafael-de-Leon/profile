@@ -11,8 +11,9 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: guys
-    desc: "hello"
+    title: test
+    text: "hello"
+    desc: test
     
     
 
