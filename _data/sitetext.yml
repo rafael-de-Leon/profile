@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   header:
     text: hello
-    text: world
+    body: world
     
     
 
